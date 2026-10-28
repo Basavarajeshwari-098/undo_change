@@ -1,1 +1,2 @@
-print("ishuuuuu")
+print("ishuuuuuuu")
+print("ishwari")
