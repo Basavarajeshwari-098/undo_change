@@ -1,2 +1,1 @@
-print("ishuuuuuuu")
-print("ishwari")
+print("ishuuuuu")
